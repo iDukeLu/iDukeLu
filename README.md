@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu&layout=compact)](https://github.com/iDukeLu) -->
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true" style="flex: 1; height: 200px; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu" style="flex: 1; height: 200px; object-fit: contain;" />
 </div>
