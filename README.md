@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![iDukeLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true)
+<!-- ![iDukeLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu&layout=compact)](https://github.com/iDukeLu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu&layout=compact)](https://github.com/iDukeLu) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu&layout=compact" />
+</a>
