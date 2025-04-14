@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu&layout=compact)](https://github.com/iDukeLu) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu" />
-</a>
+<div style="display: flex; align-items: stretch; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDukeLu" style="flex: 1;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iDukeLu&theme=github_dark_dimmed&show_icons=true" style="flex: 1;" />
+</div>
